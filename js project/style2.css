@@ -1,0 +1,13 @@
+li {
+    cursor: pointer;
+  }
+
+  .completed {
+    text-decoration: line-through;
+    color: #aaa;
+  }
+
+  .close {
+    margin-left: 10px;
+    cursor: pointer;
+  }
